@@ -1,0 +1,88 @@
+/* Download button overlay for Stripchat player */
+.sc-download-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10020;
+  background: var(--brand-accent);
+  border: none;
+  color: #fff;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+.sc-download-button:hover { background: var(--brand-accent-hover); }
+.sc-download-button:active { transform: translateY(1px); }
+.sc-dl-icon { font-size: 14px; line-height: 1; }
+.sc-dl-text { line-height: 1; }
+
+/* Popover */
+.sc-quality-popover {
+  position: absolute;
+  min-width: 170px;
+  max-width: 240px;
+  background: var(--bg-darker);
+  color: var(--text-primary);
+  border: 1px solid var(--border-dark);
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  overflow: hidden;
+}
+.sc-popover-header {
+  font-weight: 600;
+  font-size: 12px;
+  padding: 8px 10px;
+  background: var(--bg-darker);
+  border-bottom: 1px solid var(--border-dark);
+}
+.sc-popover-content { padding: 6px; }
+.sc-popover-loading, .sc-popover-error { font-size: 12px; color: var(--text-subtle); padding: 8px; }
+.sc-popover-list { display: flex; flex-direction: column; gap: 4px; }
+.sc-popover-item {
+  appearance: none;
+  border: none;
+  background: var(--bg-dark);
+  color: var(--text-primary);
+  text-align: left;
+  border-radius: 6px;
+  padding: 8px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.sc-popover-item:hover { background: var(--bg-darker); }
+.sc-popover-q { font-weight: 600; }
+.sc-popover-type { font-size: 11px; opacity: 0.85; }
+
+/* Saved-video gallery buttons */
+.sc-gallery-download-button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 10022;
+  background: var(--brand-accent);
+  border: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1;
+  padding: 7px 9px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.35);
+}
+.sc-gallery-download-button:hover { background: var(--brand-accent-hover); }
+.sc-gallery-download-button:disabled {
+  opacity: 0.75;
+  cursor: progress;
+}

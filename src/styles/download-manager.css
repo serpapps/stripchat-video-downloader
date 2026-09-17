@@ -1,0 +1,10 @@
+/* Basic stylesheet for Stripchat Download Manager */
+#stripchat-download-manager {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#stripchat-download-manager .cancel-download-btn:hover {
+  background-color: var(--bg-darker);
+}
+#downloads-container {
+  scrollbar-width: thin;
+}
