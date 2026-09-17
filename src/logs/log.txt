@@ -1,0 +1,145 @@
+logger.js:39 🟪 [Stripchat BG] Stripchat Downloader background script loaded
+logger.js:39 🟪 [Stripchat BG] 🟪 [Stripchat Detect] tab:1310481705 Stripchat content loaded
+logger.js:39 🟪 [Stripchat BG] Message getActiveDownloads Object
+logger.js:39 🟪 [Stripchat BG] Message getVideoFormats Object
+logger.js:39 🟪 [Stripchat BG] Getting Stripchat formats for: Object
+logger.js:39 🟪 [Stripchat BG] Incoming hlsHosts Array(0)
+logger.js:39 🟪 [Stripchat BG] Injector debug info null
+logger.js:39 🟪 [Stripchat BG] Meta request status Object
+logger.js:39 🟪 [Stripchat BG] API stream metadata Object
+logger.js:39 🟪 [Stripchat BG] Registered stream identifier (id) hot-threesome
+logger.js:39 🟪 [Stripchat BG] Registered stream identifier (roomSlug) hot-threesome
+logger.js:39 🟪 [Stripchat BG] Registered stream identifier (streamName) 90304219
+logger.js:39 🟪 [Stripchat BG] Registered stream identifier (api.streamName) 90304219
+logger.js:39 🟪 [Stripchat BG] Registered stream identifier (api.userId) 90304219
+logger.js:39 🟪 [Stripchat BG] Host candidates (extractor) Array(6)
+logger.js:39 🟪 [Stripchat BG] Host candidates (combined) Array(6)
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:doppiocdn.com) https://edge-hls.doppiocdn.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:doppiocdn.net) https://edge-hls.doppiocdn.net/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdnm.com) https://edge-hls.stripcdnm.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdnmd.com) https://edge-hls.stripcdnmd.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdntmp.com) https://edge-hls.stripcdntmp.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:sc-cdn.net) https://edge-hls.sc-cdn.net/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:doppiocdn.com) https://edge-hls.doppiocdn.com/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:doppiocdn.net) https://edge-hls.doppiocdn.net/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdnm.com) https://edge-hls.stripcdnm.com/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdnmd.com) https://edge-hls.stripcdnmd.com/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:stripcdntmp.com) https://edge-hls.stripcdntmp.com/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Adding master candidate (host:sc-cdn.net) https://edge-hls.sc-cdn.net/hls/hot-threesome/master/hot-threesome_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Master candidates (final) Array(13)
+logger.js:39 🟪 [Stripchat BG] Attempting master manifest https://edge-hls.doppiocdn.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Fetching manifest https://edge-hls.doppiocdn.com/hls/90304219/master/90304219_auto.m3u8
+logger.js:39 🟪 [Stripchat BG] Manifest length 888
+logger.js:39 🟪 [Stripchat BG] Master manifest sample #EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-MOUFLON:PSCH:v1:Zokee2OhPh9kugh4
+#EXT-X-STREAM-INF:BANDWIDTH=2533273,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000,CLOSED-CAPTIONS=NONE,NAME="720p"
+https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1408000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30.000,CLOSED-CAPTIONS=NONE,NAM
+logger.js:39 🟪 [Stripchat BG] Master Mouflon PSCH detected Object
+logger.js:39 🟪 [Stripchat BG] Parsed manifest variants Array(4)
+logger.js:39 🟪 [Stripchat BG] Parsed manifest variants JSON [
+  {
+    "url": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p.m3u8",
+    "requestUrl": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p.m3u8?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "search": "?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "height": 720,
+    "bandwidth": 2533273,
+    "extraParams": {
+      "psch": "v1",
+      "pkey": "Zokee2OhPh9kugh4"
+    }
+  },
+  {
+    "url": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_480p.m3u8",
+    "requestUrl": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_480p.m3u8?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "search": "?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "height": 480,
+    "bandwidth": 1408000,
+    "extraParams": {
+      "psch": "v1",
+      "pkey": "Zokee2OhPh9kugh4"
+    }
+  },
+  {
+    "url": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_240p.m3u8",
+    "requestUrl": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_240p.m3u8?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "search": "?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "height": 240,
+    "bandwidth": 704000,
+    "extraParams": {
+      "psch": "v1",
+      "pkey": "Zokee2OhPh9kugh4"
+    }
+  },
+  {
+    "url": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_160p.m3u8",
+    "requestUrl": "https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_160p.m3u8?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "search": "?psch=v1&pkey=Zokee2OhPh9kugh4",
+    "height": 160,
+    "bandwidth": 339046,
+    "extraParams": {
+      "psch": "v1",
+      "pkey": "Zokee2OhPh9kugh4"
+    }
+  }
+]
+logger.js:39 🟪 [Stripchat BG] Formats succeeded Object
+logger.js:39 🟪 [Stripchat BG] Message downloadVideo Object
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Starting offscreen script...
+logger.js:39 🟪 [Stripchat BG] Message Stripchat_OFFSCREEN_READY Object
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Offscreen script loaded and ready
+logger.js:39 🟪 [Stripchat BG] Begin HLS preparation Object
+logger.js:39 🟪 [Stripchat BG] Variant request info Object
+logger.js:39 🟪 [Stripchat BG] Parsing playlist https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p.m3u8?psch=v1&pkey=Zokee2OhPh9kugh4
+logger.js:39 🟪 [Stripchat BG] Original playlist sample #EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-MOUFLON:PSCH:v1:Zokee2OhPh9kugh4
+#EXT-X-TARGETDURATION:2
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA-SEQUENCE:431
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-MAP:URI="https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p_h264_init_516QE3MBGns6QDMb.mp4"
+#EXT-X-PROGRA
+logger.js:39 🟪 [Stripchat BG] Config static preview {"static":{"altcraftPixelBaseUrl":"https://pxl.stripchat.com:443/pixel","debug":false,"env":"production","googleClientId":"67819290237-pean7okuo1c6a4bf5g19d9anjj15uvp6.apps.googleusercontent.com","alt
+logger.js:39 🟪 [Stripchat BG] Stripchat config origin/version Object
+logger.js:39 🟪 [Stripchat BG] main.js preview var e,t,r,n,i,s,o,a,l,u,c,d,h,_,f=require("react"),p=require("react/jsx-runtime");function g(e,t,r,n){Object.defineProperty(e,t,{get:r,set:n,enumerable:!0,configurable:!0})}var v="undefined"!=typeof g
+logger.js:39 🟪 [Stripchat BG] Doppio bundle preview var e=require("buffer"),t=require("process"),r="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{},i=r.parcel
+logger.js:39 🟪 [Stripchat BG] Decode key not found in Doppio bundle for pkey Zokee2OhPh9kugh4
+logger.js:39 🟪 [Stripchat BG] Mouflon rewrite info {"hadMouflon":true,"decodedCount":0,"reason":"decode-key-unavailable","pkey":"Zokee2OhPh9kugh4","psch":"v1"}
+logger.js:39 🟪 [Stripchat BG] Playlist features {"hasLL":false,"hasMouflon":true,"psch":"v1"}
+logger.js:39 🟪 [Stripchat BG] Playlist segments parsed {"count":2}
+logger.js:39 🟪 [Stripchat BG] First segment after rewrite https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p_h264_init_516QE3MBGns6QDMb.mp4?psch=v1&pkey=Zokee2OhPh9kugh4
+logger.js:39 🟪 [Stripchat BG] Parsed playlist segments Object
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Processing 2 HLS segments for Hot-threesome Cam Model_ Free Live Sex Show & Chat.mp4
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Starting download of 2 segments
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Downloading segment 1/2: https://media-hls.doppiocdn.com/b-hls-08/90304219/90304219_720p_h264_init_516QE3MBGns6QDMb.mp4?psch=v1&pkey=Zokee2OhPh9kugh4
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Fetching segment 1 (attempt 1)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 1 response 200 
+logger.js:39 🟪 [Stripchat BG] Message HLS_PROCESSING_PROGRESS Object
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Downloaded segment 1/2 (45%)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Downloading segment 2/2: https://media-hls.doppiocdn.com/b-hls-08/90304219/media.mp4?psch=v1&pkey=Zokee2OhPh9kugh4
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Fetching segment 2 (attempt 1)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 2 response 418 
+logger.js:40 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Retry 1/3 for segment 2 in 523ms.
+warn @ logger.js:40
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Fetching segment 2 (attempt 2)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 2 response 418 
+logger.js:40 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Retry 2/3 for segment 2 in 1098ms.
+warn @ logger.js:40
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Fetching segment 2 (attempt 3)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 2 response 418 
+logger.js:40 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Retry 3/3 for segment 2 in 2009ms.
+warn @ logger.js:40
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Fetching segment 2 (attempt 4)
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 2 response 418 
+logger.js:41 🟪 [Stripchat BG] [Stripchat Offscreen] ext [Stripchat Offscreen] Segment 2 failed after 4 attempts: Object
+error @ logger.js:41
+logger.js:41 🟪 [Stripchat BG] [Stripchat Offscreen] ext Failed to download segment 2: Object
+error @ logger.js:41
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Continuing with remaining segments...
+logger.js:39 🟪 [Stripchat BG] [Stripchat Offscreen] ext Downloaded 1/2 segments (1.21 KB), transmuxing to MP4...
+logger.js:39 🟪 [Stripchat BG] Message HLS_PROCESSING_PROGRESS Object
+logger.js:41 🟪 [Stripchat BG] [Stripchat Offscreen] ext HLS processing failed: Object
+error @ logger.js:41
+logger.js:39 🟪 [Stripchat BG] Message HLS_PROCESSING_ERROR Object
